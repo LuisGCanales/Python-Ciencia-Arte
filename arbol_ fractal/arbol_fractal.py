@@ -1,6 +1,8 @@
 
 # Árbol fractal
-
+# Por, Luis Gerardo Canales Ocampo.
+# + Códigos, e info. en https://github.com/LuisCanalesPy/Python-Ciencia-Arte/
+# Contacto: lgco@comunidad.unam.mx
 
 
 # Se importan las paqueterías que se van a utilizar.
