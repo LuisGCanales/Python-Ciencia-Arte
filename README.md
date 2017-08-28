@@ -13,18 +13,18 @@ En la medida de lo posible los programas serán escritos de la manera más gené
 La idea es incluir también un apartado de introducción a la programación en Python, pero eso está aún en proceso, pues el simple hecho de utilizar git para descargar un archivo y correrlo en una computadora ya requiere cierto conocimiento previo. Para este fin será necesario el uso de otras plataformas más amigables con usuarios sin experiencia en programación y uso de la computadora en general.
 
 ## VISUALIZA LOS CÓDIGOS/TUTORIALES DESDE TU NAVEGADOR.
-(Da click en el título del proyecto que más llame tu atención)
+(Da click en el título/imagen del proyecto que más llame tu atención.)
 
-### [Árbol fractal](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/tree/master/arbol_%20fractal)
-
-!["Imagen no disponible, por favor reportala para actualizarla. :)"](http://image.ibb.co/jgomsQ/arbol0.png)
+## [Árbol fractal](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/tree/master/arbol_%20fractal)
+[<img src="http://image.ibb.co/jgomsQ/arbol0.png">](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/tree/master/arbol_%20fractal)
+ 
  
 ## INSTRUCCIONES PARA DESCARGAR EL CONTENIDO DEL REPOSITORIO EN UN ARCHIVO ZIP
 
 En la parte superior derecha de esta página hay un ícono verde que dice ***Clone or Download*** , da click en él.
 !["Imagen no disponible, por favor reportala para actualizarla. :)"](http://image.ibb.co/no32XQ/Captura_de_pantalla_de_2017_08_27_204000.jpg)
 
-Una vez dando clic ahí, te aparecerá la opcin de ***Download as ZIP***
+Una vez dando clic ahí, te aparecerá la opción de ***Download as ZIP***, da click de nuevo, y ¡Listo!
 
 **Todos los programas fueron escritos completamente por Luis Gerardo Canales Ocampo. **
 
