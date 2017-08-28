@@ -13,6 +13,7 @@ un poco el código, y con un poco de creatividad (y paciencia jajaja), puedas cr
 ### Copo de Von Koch.
 !["Imagen no disponible, por favor reportala para actualizarla. :)"](http://image.ibb.co/di6xGk/V_4.png)
 
+### Para visualizar el código/tutorial de este proyecto en línea da clic [aquí](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/blob/master/arbol_%20fractal/arbol_fractal.ipynb).
 
 Dudas, comentarios y sugerencias:
 **lgco@comunidad.unam.mx**
