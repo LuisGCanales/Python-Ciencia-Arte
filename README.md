@@ -17,7 +17,10 @@ La idea es incluir también un apartado de introducción a la programación en P
 
 ## [Árbol fractal](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/tree/master/arbol_%20fractal)
 [<img src="http://image.ibb.co/jgomsQ/arbol0.png">](https://github.com/LuisCanalesPy/Python-Ciencia-Arte/tree/master/arbol_%20fractal)
- 
+
+## INFORMACIÓN EXTRA
+
+Todas las carpetas de proyectos incluyen, además, un archivo con extensión ".py", con una versión del programa lista para correr desde tu terminal, aunque con menos comentarios que la versión ".ipynb" (debes tener instalado [Python 3](https://www.python.org/)).
  
 ## INSTRUCCIONES PARA DESCARGAR EL CONTENIDO DEL REPOSITORIO EN UN ARCHIVO ZIP
 
